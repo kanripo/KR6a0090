@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 鞞摩肅經
+#+DATE: 2015-08-30 19:30:36.662498
+#+PROPERTY: JUAN 0
